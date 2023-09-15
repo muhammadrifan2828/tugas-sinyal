@@ -4,6 +4,9 @@ Created on Thu Sep 14 14:16:39 2023
 
 @author: 62813
 """
+# ID
+print("Nama: Muhammad Rifan Ikhlasul Ammal")
+print("NRP: 5009211138")
 
 import numpy as np
 import scipy.signal as signal
