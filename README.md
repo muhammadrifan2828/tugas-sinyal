@@ -13,3 +13,4 @@ Python Script
 https://github.com/muhammadrifan2828/tugas-sinyal/blob/master/E/Convulation%20adn%20Modulation%20of%20Filtered%20Signal%20500921138.py
 
 # C. Last Commit Logs
+![image](https://github.com/muhammadrifan2828/tugas-sinyal/assets/144788893/bd3fd366-5c4a-4e09-baf5-13636edec670)
