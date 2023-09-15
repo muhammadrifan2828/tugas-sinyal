@@ -10,3 +10,6 @@ Muhammad Rifan Ikhlasul Ammal
 ![image](https://github.com/muhammadrifan2828/tugas-sinyal/assets/144788893/18b66620-c870-40e1-ba59-713dac3afa25)
 
 Python Script
+https://github.com/muhammadrifan2828/tugas-sinyal/blob/master/E/Convulation%20adn%20Modulation%20of%20Filtered%20Signal%20500921138.py
+
+# C. Last Commit Logs
